@@ -1,0 +1,31 @@
+================================================================================
+NEXUSEDGE SOVEREIGN CLOUD ENGINE - END USER LICENSE AGREEMENT (EULA) & SHIELD
+================================================================================
+
+1. 100% LOCAL DATA SOVEREIGNTY & ZERO DEVELOPER ACCESS
+NexusEdge Sovereign Cloud OS operates strictly as an offline-first, self-hosted
+software engine on the user's own hardware (PC, Laptop, Mac, or Android device).
+The creator/licensor ("Vendor") does NOT host, transmit, collect, view, or store
+any End-User data, client files, tax records, or encryption keys on any external
+server.
+
+2. LIMITATION OF LIABILITY & "AS-IS" WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS, FOUNDER, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, DATA
+LOSS, HARDWARE FAILURE, BUSINESS INTERRUPTION, OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+3. USER RESPONSIBILITY FOR BACKUPS & COMPLIANCE
+Because all cryptographic keys and SQLite WAL databases reside solely on the
+End-User's physical device, the End-User is 100% responsible for maintaining
+external USB/offline backups and ensuring compliance with local tax, healthcare,
+or data protection regulations (including DPDP Act, GDPR, or HIPAA).
+
+4. ANTI-PIRACY & HARDWARE NODE BINDING
+Each Commercial License Token (NX5-Ed25519) is cryptographically bound to a
+single Hardware Node ID. Reverse engineering, unauthorized redistribution, or
+tampering with the license verification module is strictly prohibited.
+================================================================================

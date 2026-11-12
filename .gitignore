@@ -1,0 +1,10 @@
+# CRITICAL SECURITY: NEVER UPLOAD FOUNDER PRIVATE KEYS OR LOCAL DATA TO GITHUB!
+founder_master_private.key
+founder_keygen.py
+edge_node_local.db
+edge_node_local.db-wal
+edge_node_local.db-shm
+node_identity.json
+Sovereign_Backups/
+__pycache__/
+*.pyc
